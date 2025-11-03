@@ -172,10 +172,10 @@
       <form id="applyForm" novalidate>
         <input type="hidden" id="jobId" />
         <label for="appName">ФИО</label>
-        <input id="appName" type="text" required placeholder="Навальный Анатолий Анатольевич" />
+        <input id="appName" type="text" required placeholder="Анатольев Анатолий Анатольевич" />
 
         <label for="appEmail">Email</label>
-        <input id="appEmail" type="email" required placeholder="AlekseyNavalni04061974@mail.ru" />
+        <input id="appEmail" type="email" required placeholder="AnatolyevAnatoliy04061974@mail.ru" />
 
         <label for="appAge">Возраст</label>
         <input id="appAge" type="number" required min="13" max="99" placeholder="14" />
